@@ -1,1 +1,1 @@
-# dhammapaldhule
+# Basic logical Java program 
